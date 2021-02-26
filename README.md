@@ -7,7 +7,7 @@ Analyse rad of circles
 
 **Table of Contents**
  * [Installation](#installation)
- * [Project Structure](#Project Structure)
+ * [Project Structure](#Project_Structure)
 
 ## Installation
 Packages used:
@@ -19,7 +19,7 @@ Packages used:
 
 
 
-## Project Structure
+## Project_Structure
 ```
 ├── root_images/                    <<  
 │   └── image.tif                   <<  Raw images
